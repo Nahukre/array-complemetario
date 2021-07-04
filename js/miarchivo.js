@@ -9,5 +9,3 @@ const ordenAlfabetico = total.sort();
 console.log(ordenAlfabetico);
 const cadena = ordenAlfabetico.join(" ");
 console.log(cadena.toUpperCase());
-const ordenInverso = total.sort((a, b) => { return b - a; });
-console.log(ordenInverso.toUpperCase());
