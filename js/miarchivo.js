@@ -11,7 +11,6 @@ const cadena = ordenAlfabetico.join(" ");
 console.log(cadena.toUpperCase());
 
 
-
 const opcionesDeInversion = [
     { nombre: "Dolar blue", valor: 170 },
     { nombre: "Bitcoin", valor: 7000000 },
